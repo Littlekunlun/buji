@@ -1,6 +1,6 @@
 {
-  "version": "v5.5.3",
-  "versionCode": 20261134,
-  "zipUrl": "https://github.com/Littlekunlun/buji/releases/download/v5.5.3/buji-v5.5.3.zip",
-  "changelog": ""
+  "version": "v5.5.4",
+  "versionCode": 20261135,
+  "zipUrl": "https://github.com/Littlekunlun/buji/releases/download/v5.5.4/buji-v5.5.4.zip",
+  "changelog": "https://raw.githubusercontent.com/Littlekunlun/buji/main/changelog.md"
 }
